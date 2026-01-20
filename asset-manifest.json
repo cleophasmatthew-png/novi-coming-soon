@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/novi-coming-soon/static/css/main.e6c13ad2.css",
+    "main.js": "/novi-coming-soon/static/js/main.c67900f3.js",
+    "static/js/488.3789e46a.chunk.js": "/novi-coming-soon/static/js/488.3789e46a.chunk.js",
+    "static/media/logo.png": "/novi-coming-soon/static/media/logo.73980180ea98c0c21525.png",
+    "index.html": "/novi-coming-soon/index.html",
+    "main.e6c13ad2.css.map": "/novi-coming-soon/static/css/main.e6c13ad2.css.map",
+    "main.c67900f3.js.map": "/novi-coming-soon/static/js/main.c67900f3.js.map",
+    "488.3789e46a.chunk.js.map": "/novi-coming-soon/static/js/488.3789e46a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c67900f3.js"
+  ]
+}
